@@ -1,5 +1,11 @@
 # TIME_SERIES_ANOMALY_DETECTION-A-DEEP_LEARNING_BASED_ENSEMBLE_MODEL
-README
+## License
+
+This project is proprietary and confidential.  
+No personal or commercial use is allowed without explicit written permission.  
+See the [LICENSE](LICENSE) file for details.
+
+## README
 
 1. Introduction:
 
